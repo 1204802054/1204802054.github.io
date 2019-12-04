@@ -1,0 +1,92 @@
+# Basic
+title: 贾泽
+author: Juby
+url: https://jiaze.chat
+timezone: Asia/Shanghai
+
+# SEO
+keywords: [希望不会伤害任何一个爱我的人]
+description: 珍惜现在 展望未来
+
+# Social
+social:
+  twitter: jubyshu
+  weibo: manatsuakimoto
+  youtube: UCg-mkLHhCiWZfc2TLlBuR8A
+
+# Google
+google: 
+  analytics: UA-112090731-1
+  site_verification: lTL7MkDxY16gNmRWyqoZYflJgECNQkxPjyFoYgM3z2M
+
+# Leancloud used for Valine
+leancloud: 
+  appid: QSgMGPbA7GNASFnb69vrBVxT-MdYXbMMI
+  appkey: 5LnIvn6xAMPXGlMAssqbQCB6
+
+# OpenGraph & TwitterCard
+card: /images/tcard.png
+
+# ---------------------上面信息改为自己的-------------------------
+# 
+#          jekyll文档参考: https://jekyllrb.com/docs/
+#
+# ---------------------下面信息视情况更改-------------------------
+
+# Permalink
+permalink: '/:year/:month/:title/'
+
+# Format
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Navigation buttons
+nav:
+  - {title: 主页, description: blog, url: '/'}
+  - {title: 日记, description: archive, url: '/archive/'}   
+  - {title: 读书, description: read, url: '/book/'}    
+  - {title: 关于, description: about, url: '/about/'}         
+
+
+# Plugins
+plugins: [jekyll-paginate-v2, jekyll-sitemap, jekyll-algolia]
+
+# Pagination
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# autopage_tags
+autopages:
+  enabled: true
+  categories: 
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    layouts: 
+      - 'autopage_tags.html'
+    title: '标签 - :tag'
+    permalink: '/tags/:tag'
+
+# Increase jekyll build speed
+exclude: [Gemfile, Gemfile.lock, README.md]
+keep_files: [images]
+incrumental: true
+
+# Redirect
+include: [_redirects]
+
