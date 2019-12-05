@@ -50,7 +50,7 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 日记, description: archive, url: '/archive/'}   
+  - {title: 日记&随笔, description: archive, url: '/archive/'}   
   - {title: 读书, description: read, url: '/book/'}    
   - {title: 关于, description: about, url: '/about/'}         
 
