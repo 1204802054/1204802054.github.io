@@ -45,6 +45,6 @@ description: 2019年末期开始搭建自己的博客,用于记录自己的学�
 -------------------
 
 ####  好友
-- [窦鑫盛](lancelot.chat)
-- [赵虎](devilzhao.chat)
-- [黄立兵](jovilhlb.top)
+- [窦鑫盛](https://www.lancelot.chat)
+- [赵虎](https://www.devilzhao.chat)
+- [黄立兵](https://www.jovilhlb.top)
