@@ -25,6 +25,8 @@ description: Read Books.
 
 {:.collcontent}
 
+{% include comments.html %}
+
 ### 2020
 {:.collapsible}
 
