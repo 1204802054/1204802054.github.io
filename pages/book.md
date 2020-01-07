@@ -25,5 +25,12 @@ description: Read Books.
 
 {:.collcontent}
 
+### 2020
+{:.collapsible}
+
+- 《2020贾泽故事与随笔精选 见日记》 贾百万出版社OwO
+- 《痖弦回忆录》 江苏凤凰文艺出版社
+
+{:.collcontent}
 
 {% include comments.html %}
