@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 读书小结一
-date: 2020-01-14 10:50
+date: 2020-01-17 22:50
 categories: essay
-tags: 计划 总结
+tags: 小结
 ---
 
 因为想不到一个好的标题，所以起个标准的标题糊弄一下。
