@@ -8,6 +8,20 @@ description: Read Books.
 
 ### 读书
 
+
+-------------------
+
+### 2020
+{:.collapsible}
+
+- 《2020贾泽故事与随笔精选 见日记》 贾百万OwO
+- 《痖弦回忆录》 痖弦
+- 《人性的弱点》 戴尔·卡耐基
+
+{:.collcontent}
+
+{% include comments.html %}
+
 -------
 
 ### 2019
@@ -22,18 +36,6 @@ description: Read Books.
 - 《清欢》 林清玄
 - 《林泉》 林清玄
 - 《C++ primer 第五版》 Stanley B. Lippman
-
-{:.collcontent}
-
-{% include comments.html %}
-
--------------------
-
-### 2020
-{:.collapsible}
-
-- 《2020贾泽故事与随笔精选 见日记》 贾百万OwO
-- 《痖弦回忆录》 痖弦
 
 {:.collcontent}
 
